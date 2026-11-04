@@ -1,5 +1,5 @@
 {
-  "name": "AP CSA Assignment",
+  "name": "Tamagotchi project",
   "image": "mcr.microsoft.com/devcontainers/java:1-17-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
