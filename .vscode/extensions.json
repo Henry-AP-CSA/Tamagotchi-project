@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "github.copilot-chat",
+    "github.vscode-pull-request-github"
+  ],
+  "unwantedRecommendations": [
+    "github.copilot"
+  ]
+}
